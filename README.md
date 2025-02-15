@@ -8,3 +8,5 @@ pip install notebook
 python -m notebook
 
 3) Open project in notebook
+
+NOTE: Make sure you have Python installed and have the pandas, numpy and math libraries.
